@@ -3,3 +3,4 @@ git is fast
 git is opensource
 git is popular
 git is sourcecode tool
+git is widely used
